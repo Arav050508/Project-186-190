@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Hazmat Soldier
+* source:	https://sketchfab.com/3d-models/low-poly-hazmat-soldier-edacc7f2e525461fbcfcc4dd6045be18
+* author:	zach.kolman (https://sketchfab.com/zach.kolman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Hazmat Soldier" (https://sketchfab.com/3d-models/low-poly-hazmat-soldier-edacc7f2e525461fbcfcc4dd6045be18) by zach.kolman (https://sketchfab.com/zach.kolman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
